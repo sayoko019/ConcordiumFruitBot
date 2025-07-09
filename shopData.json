@@ -1,0 +1,1006 @@
+{
+  "healing": {
+    "Herbal Potion 1": {
+      "type": "healing",
+      "heal": 5,
+      "price": 10
+    },
+    "Herbal Potion 2": {
+      "type": "healing",
+      "heal": 10,
+      "price": 20
+    },
+    "Herbal Potion 3": {
+      "type": "healing",
+      "heal": 15,
+      "price": 30
+    },
+    "Herbal Potion 4": {
+      "type": "healing",
+      "heal": 20,
+      "price": 40
+    },
+    "Herbal Potion 5": {
+      "type": "healing",
+      "heal": 25,
+      "price": 50
+    },
+    "Herbal Potion 6": {
+      "type": "healing",
+      "heal": 30,
+      "price": 60
+    },
+    "Herbal Potion 7": {
+      "type": "healing",
+      "heal": 35,
+      "price": 70
+    },
+    "Herbal Potion 8": {
+      "type": "healing",
+      "heal": 40,
+      "price": 80
+    },
+    "Herbal Potion 9": {
+      "type": "healing",
+      "heal": 45,
+      "price": 90
+    },
+    "Herbal Potion 10": {
+      "type": "healing",
+      "heal": 50,
+      "price": 100
+    },
+    "Herbal Potion 11": {
+      "type": "healing",
+      "heal": 55,
+      "price": 110
+    },
+    "Herbal Potion 12": {
+      "type": "healing",
+      "heal": 60,
+      "price": 120
+    },
+    "Herbal Potion 13": {
+      "type": "healing",
+      "heal": 65,
+      "price": 130
+    },
+    "Herbal Potion 14": {
+      "type": "healing",
+      "heal": 70,
+      "price": 140
+    },
+    "Herbal Potion 15": {
+      "type": "healing",
+      "heal": 75,
+      "price": 150
+    },
+    "Herbal Potion 16": {
+      "type": "healing",
+      "heal": 80,
+      "price": 160
+    },
+    "Herbal Potion 17": {
+      "type": "healing",
+      "heal": 85,
+      "price": 170
+    },
+    "Herbal Potion 18": {
+      "type": "healing",
+      "heal": 90,
+      "price": 180
+    },
+    "Herbal Potion 19": {
+      "type": "healing",
+      "heal": 95,
+      "price": 190
+    },
+    "Herbal Potion 20": {
+      "type": "healing",
+      "heal": 100,
+      "price": 200
+    },
+    "Herbal Potion 21": {
+      "type": "healing",
+      "heal": 105,
+      "price": 210
+    },
+    "Herbal Potion 22": {
+      "type": "healing",
+      "heal": 110,
+      "price": 220
+    },
+    "Herbal Potion 23": {
+      "type": "healing",
+      "heal": 115,
+      "price": 230
+    },
+    "Herbal Potion 24": {
+      "type": "healing",
+      "heal": 120,
+      "price": 240
+    },
+    "Herbal Potion 25": {
+      "type": "healing",
+      "heal": 125,
+      "price": 250
+    },
+    "Herbal Potion 26": {
+      "type": "healing",
+      "heal": 130,
+      "price": 260
+    },
+    "Herbal Potion 27": {
+      "type": "healing",
+      "heal": 135,
+      "price": 270
+    },
+    "Herbal Potion 28": {
+      "type": "healing",
+      "heal": 140,
+      "price": 280
+    },
+    "Herbal Potion 29": {
+      "type": "healing",
+      "heal": 145,
+      "price": 290
+    },
+    "Herbal Potion 30": {
+      "type": "healing",
+      "heal": 150,
+      "price": 300
+    },
+    "Herbal Potion 31": {
+      "type": "healing",
+      "heal": 155,
+      "price": 310
+    },
+    "Herbal Potion 32": {
+      "type": "healing",
+      "heal": 160,
+      "price": 320
+    },
+    "Herbal Potion 33": {
+      "type": "healing",
+      "heal": 165,
+      "price": 330
+    },
+    "Herbal Potion 34": {
+      "type": "healing",
+      "heal": 170,
+      "price": 340
+    },
+    "Herbal Potion 35": {
+      "type": "healing",
+      "heal": 175,
+      "price": 350
+    },
+    "Herbal Potion 36": {
+      "type": "healing",
+      "heal": 180,
+      "price": 360
+    },
+    "Herbal Potion 37": {
+      "type": "healing",
+      "heal": 185,
+      "price": 370
+    },
+    "Herbal Potion 38": {
+      "type": "healing",
+      "heal": 190,
+      "price": 380
+    },
+    "Herbal Potion 39": {
+      "type": "healing",
+      "heal": 195,
+      "price": 390
+    },
+    "Herbal Potion 40": {
+      "type": "healing",
+      "heal": 200,
+      "price": 400
+    },
+    "Herbal Potion 41": {
+      "type": "healing",
+      "heal": 205,
+      "price": 410
+    },
+    "Herbal Potion 42": {
+      "type": "healing",
+      "heal": 210,
+      "price": 420
+    },
+    "Herbal Potion 43": {
+      "type": "healing",
+      "heal": 215,
+      "price": 430
+    },
+    "Herbal Potion 44": {
+      "type": "healing",
+      "heal": 220,
+      "price": 440
+    },
+    "Herbal Potion 45": {
+      "type": "healing",
+      "heal": 225,
+      "price": 450
+    },
+    "Herbal Potion 46": {
+      "type": "healing",
+      "heal": 230,
+      "price": 460
+    },
+    "Herbal Potion 47": {
+      "type": "healing",
+      "heal": 235,
+      "price": 470
+    },
+    "Herbal Potion 48": {
+      "type": "healing",
+      "heal": 240,
+      "price": 480
+    },
+    "Herbal Potion 49": {
+      "type": "healing",
+      "heal": 245,
+      "price": 490
+    },
+    "Herbal Potion 50": {
+      "type": "healing",
+      "heal": 250,
+      "price": 500
+    },
+    "Herbal Potion 51": {
+      "type": "healing",
+      "heal": 255,
+      "price": 510
+    },
+    "Herbal Potion 52": {
+      "type": "healing",
+      "heal": 260,
+      "price": 520
+    },
+    "Herbal Potion 53": {
+      "type": "healing",
+      "heal": 265,
+      "price": 530
+    },
+    "Herbal Potion 54": {
+      "type": "healing",
+      "heal": 270,
+      "price": 540
+    },
+    "Herbal Potion 55": {
+      "type": "healing",
+      "heal": 275,
+      "price": 550
+    },
+    "Herbal Potion 56": {
+      "type": "healing",
+      "heal": 280,
+      "price": 560
+    },
+    "Herbal Potion 57": {
+      "type": "healing",
+      "heal": 285,
+      "price": 570
+    },
+    "Herbal Potion 58": {
+      "type": "healing",
+      "heal": 290,
+      "price": 580
+    },
+    "Herbal Potion 59": {
+      "type": "healing",
+      "heal": 295,
+      "price": 590
+    },
+    "Herbal Potion 60": {
+      "type": "healing",
+      "heal": 300,
+      "price": 600
+    },
+    "Herbal Potion 61": {
+      "type": "healing",
+      "heal": 305,
+      "price": 610
+    },
+    "Herbal Potion 62": {
+      "type": "healing",
+      "heal": 310,
+      "price": 620
+    },
+    "Herbal Potion 63": {
+      "type": "healing",
+      "heal": 315,
+      "price": 630
+    },
+    "Herbal Potion 64": {
+      "type": "healing",
+      "heal": 320,
+      "price": 640
+    },
+    "Herbal Potion 65": {
+      "type": "healing",
+      "heal": 325,
+      "price": 650
+    },
+    "Herbal Potion 66": {
+      "type": "healing",
+      "heal": 330,
+      "price": 660
+    },
+    "Herbal Potion 67": {
+      "type": "healing",
+      "heal": 335,
+      "price": 670
+    },
+    "Herbal Potion 68": {
+      "type": "healing",
+      "heal": 340,
+      "price": 680
+    },
+    "Herbal Potion 69": {
+      "type": "healing",
+      "heal": 345,
+      "price": 690
+    },
+    "Herbal Potion 70": {
+      "type": "healing",
+      "heal": 350,
+      "price": 700
+    },
+    "Herbal Potion 71": {
+      "type": "healing",
+      "heal": 355,
+      "price": 710
+    },
+    "Herbal Potion 72": {
+      "type": "healing",
+      "heal": 360,
+      "price": 720
+    },
+    "Herbal Potion 73": {
+      "type": "healing",
+      "heal": 365,
+      "price": 730
+    },
+    "Herbal Potion 74": {
+      "type": "healing",
+      "heal": 370,
+      "price": 740
+    },
+    "Herbal Potion 75": {
+      "type": "healing",
+      "heal": 375,
+      "price": 750
+    },
+    "Herbal Potion 76": {
+      "type": "healing",
+      "heal": 380,
+      "price": 760
+    },
+    "Herbal Potion 77": {
+      "type": "healing",
+      "heal": 385,
+      "price": 770
+    },
+    "Herbal Potion 78": {
+      "type": "healing",
+      "heal": 390,
+      "price": 780
+    },
+    "Herbal Potion 79": {
+      "type": "healing",
+      "heal": 395,
+      "price": 790
+    },
+    "Herbal Potion 80": {
+      "type": "healing",
+      "heal": 400,
+      "price": 800
+    },
+    "Herbal Potion 81": {
+      "type": "healing",
+      "heal": 405,
+      "price": 810
+    },
+    "Herbal Potion 82": {
+      "type": "healing",
+      "heal": 410,
+      "price": 820
+    },
+    "Herbal Potion 83": {
+      "type": "healing",
+      "heal": 415,
+      "price": 830
+    },
+    "Herbal Potion 84": {
+      "type": "healing",
+      "heal": 420,
+      "price": 840
+    },
+    "Herbal Potion 85": {
+      "type": "healing",
+      "heal": 425,
+      "price": 850
+    },
+    "Herbal Potion 86": {
+      "type": "healing",
+      "heal": 430,
+      "price": 860
+    },
+    "Herbal Potion 87": {
+      "type": "healing",
+      "heal": 435,
+      "price": 870
+    },
+    "Herbal Potion 88": {
+      "type": "healing",
+      "heal": 440,
+      "price": 880
+    },
+    "Herbal Potion 89": {
+      "type": "healing",
+      "heal": 445,
+      "price": 890
+    },
+    "Herbal Potion 90": {
+      "type": "healing",
+      "heal": 450,
+      "price": 900
+    },
+    "Herbal Potion 91": {
+      "type": "healing",
+      "heal": 455,
+      "price": 910
+    },
+    "Herbal Potion 92": {
+      "type": "healing",
+      "heal": 460,
+      "price": 920
+    },
+    "Herbal Potion 93": {
+      "type": "healing",
+      "heal": 465,
+      "price": 930
+    },
+    "Herbal Potion 94": {
+      "type": "healing",
+      "heal": 470,
+      "price": 940
+    },
+    "Herbal Potion 95": {
+      "type": "healing",
+      "heal": 475,
+      "price": 950
+    },
+    "Herbal Potion 96": {
+      "type": "healing",
+      "heal": 480,
+      "price": 960
+    },
+    "Herbal Potion 97": {
+      "type": "healing",
+      "heal": 485,
+      "price": 970
+    },
+    "Herbal Potion 98": {
+      "type": "healing",
+      "heal": 490,
+      "price": 980
+    },
+    "Herbal Potion 99": {
+      "type": "healing",
+      "heal": 495,
+      "price": 990
+    },
+    "Herbal Potion 100": {
+      "type": "healing",
+      "heal": 500,
+      "price": 1000
+    }
+  },
+  "gear": {
+    "Mystic Gear 1": {
+      "type": "gear",
+      "boost": 1,
+      "price": 50
+    },
+    "Mystic Gear 2": {
+      "type": "gear",
+      "boost": 2,
+      "price": 100
+    },
+    "Mystic Gear 3": {
+      "type": "gear",
+      "boost": 3,
+      "price": 150
+    },
+    "Mystic Gear 4": {
+      "type": "gear",
+      "boost": 4,
+      "price": 200
+    },
+    "Mystic Gear 5": {
+      "type": "gear",
+      "boost": 5,
+      "price": 250
+    },
+    "Mystic Gear 6": {
+      "type": "gear",
+      "boost": 6,
+      "price": 300
+    },
+    "Mystic Gear 7": {
+      "type": "gear",
+      "boost": 7,
+      "price": 350
+    },
+    "Mystic Gear 8": {
+      "type": "gear",
+      "boost": 8,
+      "price": 400
+    },
+    "Mystic Gear 9": {
+      "type": "gear",
+      "boost": 9,
+      "price": 450
+    },
+    "Mystic Gear 10": {
+      "type": "gear",
+      "boost": 10,
+      "price": 500
+    },
+    "Mystic Gear 11": {
+      "type": "gear",
+      "boost": 11,
+      "price": 550
+    },
+    "Mystic Gear 12": {
+      "type": "gear",
+      "boost": 12,
+      "price": 600
+    },
+    "Mystic Gear 13": {
+      "type": "gear",
+      "boost": 13,
+      "price": 650
+    },
+    "Mystic Gear 14": {
+      "type": "gear",
+      "boost": 14,
+      "price": 700
+    },
+    "Mystic Gear 15": {
+      "type": "gear",
+      "boost": 15,
+      "price": 750
+    },
+    "Mystic Gear 16": {
+      "type": "gear",
+      "boost": 16,
+      "price": 800
+    },
+    "Mystic Gear 17": {
+      "type": "gear",
+      "boost": 17,
+      "price": 850
+    },
+    "Mystic Gear 18": {
+      "type": "gear",
+      "boost": 18,
+      "price": 900
+    },
+    "Mystic Gear 19": {
+      "type": "gear",
+      "boost": 19,
+      "price": 950
+    },
+    "Mystic Gear 20": {
+      "type": "gear",
+      "boost": 20,
+      "price": 1000
+    },
+    "Mystic Gear 21": {
+      "type": "gear",
+      "boost": 21,
+      "price": 1050
+    },
+    "Mystic Gear 22": {
+      "type": "gear",
+      "boost": 22,
+      "price": 1100
+    },
+    "Mystic Gear 23": {
+      "type": "gear",
+      "boost": 23,
+      "price": 1150
+    },
+    "Mystic Gear 24": {
+      "type": "gear",
+      "boost": 24,
+      "price": 1200
+    },
+    "Mystic Gear 25": {
+      "type": "gear",
+      "boost": 25,
+      "price": 1250
+    },
+    "Mystic Gear 26": {
+      "type": "gear",
+      "boost": 26,
+      "price": 1300
+    },
+    "Mystic Gear 27": {
+      "type": "gear",
+      "boost": 27,
+      "price": 1350
+    },
+    "Mystic Gear 28": {
+      "type": "gear",
+      "boost": 28,
+      "price": 1400
+    },
+    "Mystic Gear 29": {
+      "type": "gear",
+      "boost": 29,
+      "price": 1450
+    },
+    "Mystic Gear 30": {
+      "type": "gear",
+      "boost": 30,
+      "price": 1500
+    },
+    "Mystic Gear 31": {
+      "type": "gear",
+      "boost": 31,
+      "price": 1550
+    },
+    "Mystic Gear 32": {
+      "type": "gear",
+      "boost": 32,
+      "price": 1600
+    },
+    "Mystic Gear 33": {
+      "type": "gear",
+      "boost": 33,
+      "price": 1650
+    },
+    "Mystic Gear 34": {
+      "type": "gear",
+      "boost": 34,
+      "price": 1700
+    },
+    "Mystic Gear 35": {
+      "type": "gear",
+      "boost": 35,
+      "price": 1750
+    },
+    "Mystic Gear 36": {
+      "type": "gear",
+      "boost": 36,
+      "price": 1800
+    },
+    "Mystic Gear 37": {
+      "type": "gear",
+      "boost": 37,
+      "price": 1850
+    },
+    "Mystic Gear 38": {
+      "type": "gear",
+      "boost": 38,
+      "price": 1900
+    },
+    "Mystic Gear 39": {
+      "type": "gear",
+      "boost": 39,
+      "price": 1950
+    },
+    "Mystic Gear 40": {
+      "type": "gear",
+      "boost": 40,
+      "price": 2000
+    },
+    "Mystic Gear 41": {
+      "type": "gear",
+      "boost": 41,
+      "price": 2050
+    },
+    "Mystic Gear 42": {
+      "type": "gear",
+      "boost": 42,
+      "price": 2100
+    },
+    "Mystic Gear 43": {
+      "type": "gear",
+      "boost": 43,
+      "price": 2150
+    },
+    "Mystic Gear 44": {
+      "type": "gear",
+      "boost": 44,
+      "price": 2200
+    },
+    "Mystic Gear 45": {
+      "type": "gear",
+      "boost": 45,
+      "price": 2250
+    },
+    "Mystic Gear 46": {
+      "type": "gear",
+      "boost": 46,
+      "price": 2300
+    },
+    "Mystic Gear 47": {
+      "type": "gear",
+      "boost": 47,
+      "price": 2350
+    },
+    "Mystic Gear 48": {
+      "type": "gear",
+      "boost": 48,
+      "price": 2400
+    },
+    "Mystic Gear 49": {
+      "type": "gear",
+      "boost": 49,
+      "price": 2450
+    },
+    "Mystic Gear 50": {
+      "type": "gear",
+      "boost": 50,
+      "price": 2500
+    },
+    "Mystic Gear 51": {
+      "type": "gear",
+      "boost": 51,
+      "price": 2550
+    },
+    "Mystic Gear 52": {
+      "type": "gear",
+      "boost": 52,
+      "price": 2600
+    },
+    "Mystic Gear 53": {
+      "type": "gear",
+      "boost": 53,
+      "price": 2650
+    },
+    "Mystic Gear 54": {
+      "type": "gear",
+      "boost": 54,
+      "price": 2700
+    },
+    "Mystic Gear 55": {
+      "type": "gear",
+      "boost": 55,
+      "price": 2750
+    },
+    "Mystic Gear 56": {
+      "type": "gear",
+      "boost": 56,
+      "price": 2800
+    },
+    "Mystic Gear 57": {
+      "type": "gear",
+      "boost": 57,
+      "price": 2850
+    },
+    "Mystic Gear 58": {
+      "type": "gear",
+      "boost": 58,
+      "price": 2900
+    },
+    "Mystic Gear 59": {
+      "type": "gear",
+      "boost": 59,
+      "price": 2950
+    },
+    "Mystic Gear 60": {
+      "type": "gear",
+      "boost": 60,
+      "price": 3000
+    },
+    "Mystic Gear 61": {
+      "type": "gear",
+      "boost": 61,
+      "price": 3050
+    },
+    "Mystic Gear 62": {
+      "type": "gear",
+      "boost": 62,
+      "price": 3100
+    },
+    "Mystic Gear 63": {
+      "type": "gear",
+      "boost": 63,
+      "price": 3150
+    },
+    "Mystic Gear 64": {
+      "type": "gear",
+      "boost": 64,
+      "price": 3200
+    },
+    "Mystic Gear 65": {
+      "type": "gear",
+      "boost": 65,
+      "price": 3250
+    },
+    "Mystic Gear 66": {
+      "type": "gear",
+      "boost": 66,
+      "price": 3300
+    },
+    "Mystic Gear 67": {
+      "type": "gear",
+      "boost": 67,
+      "price": 3350
+    },
+    "Mystic Gear 68": {
+      "type": "gear",
+      "boost": 68,
+      "price": 3400
+    },
+    "Mystic Gear 69": {
+      "type": "gear",
+      "boost": 69,
+      "price": 3450
+    },
+    "Mystic Gear 70": {
+      "type": "gear",
+      "boost": 70,
+      "price": 3500
+    },
+    "Mystic Gear 71": {
+      "type": "gear",
+      "boost": 71,
+      "price": 3550
+    },
+    "Mystic Gear 72": {
+      "type": "gear",
+      "boost": 72,
+      "price": 3600
+    },
+    "Mystic Gear 73": {
+      "type": "gear",
+      "boost": 73,
+      "price": 3650
+    },
+    "Mystic Gear 74": {
+      "type": "gear",
+      "boost": 74,
+      "price": 3700
+    },
+    "Mystic Gear 75": {
+      "type": "gear",
+      "boost": 75,
+      "price": 3750
+    },
+    "Mystic Gear 76": {
+      "type": "gear",
+      "boost": 76,
+      "price": 3800
+    },
+    "Mystic Gear 77": {
+      "type": "gear",
+      "boost": 77,
+      "price": 3850
+    },
+    "Mystic Gear 78": {
+      "type": "gear",
+      "boost": 78,
+      "price": 3900
+    },
+    "Mystic Gear 79": {
+      "type": "gear",
+      "boost": 79,
+      "price": 3950
+    },
+    "Mystic Gear 80": {
+      "type": "gear",
+      "boost": 80,
+      "price": 4000
+    },
+    "Mystic Gear 81": {
+      "type": "gear",
+      "boost": 81,
+      "price": 4050
+    },
+    "Mystic Gear 82": {
+      "type": "gear",
+      "boost": 82,
+      "price": 4100
+    },
+    "Mystic Gear 83": {
+      "type": "gear",
+      "boost": 83,
+      "price": 4150
+    },
+    "Mystic Gear 84": {
+      "type": "gear",
+      "boost": 84,
+      "price": 4200
+    },
+    "Mystic Gear 85": {
+      "type": "gear",
+      "boost": 85,
+      "price": 4250
+    },
+    "Mystic Gear 86": {
+      "type": "gear",
+      "boost": 86,
+      "price": 4300
+    },
+    "Mystic Gear 87": {
+      "type": "gear",
+      "boost": 87,
+      "price": 4350
+    },
+    "Mystic Gear 88": {
+      "type": "gear",
+      "boost": 88,
+      "price": 4400
+    },
+    "Mystic Gear 89": {
+      "type": "gear",
+      "boost": 89,
+      "price": 4450
+    },
+    "Mystic Gear 90": {
+      "type": "gear",
+      "boost": 90,
+      "price": 4500
+    },
+    "Mystic Gear 91": {
+      "type": "gear",
+      "boost": 91,
+      "price": 4550
+    },
+    "Mystic Gear 92": {
+      "type": "gear",
+      "boost": 92,
+      "price": 4600
+    },
+    "Mystic Gear 93": {
+      "type": "gear",
+      "boost": 93,
+      "price": 4650
+    },
+    "Mystic Gear 94": {
+      "type": "gear",
+      "boost": 94,
+      "price": 4700
+    },
+    "Mystic Gear 95": {
+      "type": "gear",
+      "boost": 95,
+      "price": 4750
+    },
+    "Mystic Gear 96": {
+      "type": "gear",
+      "boost": 96,
+      "price": 4800
+    },
+    "Mystic Gear 97": {
+      "type": "gear",
+      "boost": 97,
+      "price": 4850
+    },
+    "Mystic Gear 98": {
+      "type": "gear",
+      "boost": 98,
+      "price": 4900
+    },
+    "Mystic Gear 99": {
+      "type": "gear",
+      "boost": 99,
+      "price": 4950
+    },
+    "Mystic Gear 100": {
+      "type": "gear",
+      "boost": 100,
+      "price": 5000
+    }
+  }
+}
